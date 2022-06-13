@@ -1,1 +1,1 @@
-
+This archive contains small and medium-sized projects that I have done using various programming languages and tools in areas such as machine learning, deep learning, computer vision, reinforcement learning.
